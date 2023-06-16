@@ -1,4 +1,4 @@
-//Fire Base keys 
+//Passkeys
 import firebase from 'firebase'
 import "firebase/auth"
 export const auth=firebase.initializeApp ({

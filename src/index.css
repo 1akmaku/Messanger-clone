@@ -18,7 +18,7 @@
 
 .nav-bar {
   width: 100%;
-  height: 66px;
+  height: 80px;
   background-color: #002766;
 }
 
@@ -40,8 +40,8 @@
 }
 
 ::-webkit-scrollbar {
-  width: 0; /* Remove scrollbar space */
-  background: transparent; /* Optional: just make scrollbar invisible */
+  width: 0;
+  background: transparent; 
 }
 
 /* Login Page */
@@ -67,6 +67,7 @@
   border-radius: 22px;
 }
 
+/* Scroll Bar */
 .login-button {
   cursor: pointer;
   color: white;
